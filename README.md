@@ -22,7 +22,7 @@ The Weather App is a simple and user-friendly application that allows users to f
    ```
 2. Navigate to the project directory:
    ```bash
-   cd weather-app
+   cd WeatherApp
    ```
 3. Open `index.html` in your browser to run the app.
 
